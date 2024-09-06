@@ -2,5 +2,13 @@
     border-collapse: collapse;
     padding: 20px;
     width: 100%;
+    
 }
 
+.table_title {
+    padding: 20px;
+}
+
+.table_column_day {
+    width: 12,2857143%;
+}
